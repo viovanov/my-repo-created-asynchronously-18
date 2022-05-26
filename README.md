@@ -1,1 +1,3 @@
-# my-repo-created-asynchronously-18
+# policy-todo
+
+A policy Aserto's sample todo application.
